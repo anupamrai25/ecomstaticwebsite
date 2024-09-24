@@ -1,0 +1,47 @@
+footer {
+    background-color: #333;
+    color: #ccc;
+    position: relative;
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  
+  footer h5 {
+    color: #fff;
+  }
+  
+  footer ul {
+    padding-left: 0;
+    list-style-type: none;
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer ul li a {
+    color: #bbb;
+    transition: color 0.3s ease;
+  }
+  
+  footer ul li a:hover {
+    color: #fff;
+  }
+  
+  footer i {
+    margin-right: 8px;
+  }
+  
+  footer hr {
+    border-top: 1px solid #555;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  footer a:hover {
+    color: #fff;
+  }
+  

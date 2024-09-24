@@ -1,0 +1,38 @@
+.container {
+    max-width: 900px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li i {
+    margin-right: 10px;
+    color: #007bff;
+  }
+  
+  .map-container {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  form .form-control {
+    border-radius: 0;
+  }
+  
+  button {
+    background-color: #007bff;
+    border: none;
+    border-radius: 0;
+    padding: 10px 20px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
